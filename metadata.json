@@ -1,0 +1,6 @@
+{
+  "name": "¿Cuánto cuesta?",
+  "description": "Un quiz de precios globales para poner a prueba tu noción de los valores mundiales comparados con Argentina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
